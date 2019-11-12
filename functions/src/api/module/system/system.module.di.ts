@@ -1,0 +1,1 @@
+export const TOKEN_FIREBASE_STORAGE: string = 'FIREBASE_STORAGE';
